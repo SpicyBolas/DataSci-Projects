@@ -1,5 +1,5 @@
 # DataSci-Projects
-Contains projects concerning general python programming, data analytics, machine learning and deep learning.
+Contains my self-directed projects concerning machine learning and deep learning.
 
 ## Data Sets
 ### Credit Card Fraud Dataset: 
