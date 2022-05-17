@@ -1,10 +1,6 @@
-# DataSci-Projects
-Contains my self-directed projects concerning machine learning and deep learning.
+# Emotion-Detection-From-Text
+Contains my self-directed project concerning text sentiment analysis.  Text is catgorised into one of six emotional categories using supervised deep learning, specifically the training of a Recurrent Neural Network (RNN) using the python tensorflow library. 
 
-## Data Sets
-### Credit Card Fraud Dataset: 
-This dataset has been obtained from Kaggle, uploaded by 'Machine Learning Group - ULB'.  Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-
-### Emotion From Text Dataset: 
+## Emotion From Text Dataset: 
 This dataset has been obtained from Kaggle, uploaded by 'Praveen'.  Link: https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp  
 
